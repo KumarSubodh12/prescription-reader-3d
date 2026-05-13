@@ -1,4 +1,4 @@
-# 🏥 MedScan 3D — AI Prescription Reader
+# 🏥 MedScan 3D — AI Prescription Reader - https://visio-cure-portal.lovable.app/
 
 <div align="center">
 
