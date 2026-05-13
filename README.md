@@ -10,7 +10,7 @@ APP LINK _ https://visio-cure-portal.lovable.app/
 
 ### 🚀 Revolutionary AI-Powered Prescription Reader with Stunning 3D Visuals
 
-**[🔗 LIVE DEMO → Click Here!](https://kumarsubodh12.github.io/prescription-reader-3d/)** | [Report Bug](https://github.com/KumarSubodh12/prescription-reader-3d/issues) | [Request Feature](https://github.com/KumarSubodh12/prescription-reader-3d/issues)
+ Report Bug](https://github.com/KumarSubodh12/prescription-reader-3d/issues) | [Request Feature](https://github.com/KumarSubodh12/prescription-reader-3d/issues)
 
 </div>
 
